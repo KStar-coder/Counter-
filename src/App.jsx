@@ -9,7 +9,7 @@ function App() {
   //   we can name these 2 anything we want 
   let [counter, setCounter] = useState(0) // 0 will be the default value
 
-  //let counter = 5
+  //let counter = 0
   const addValue = () => {
     console.log("working")
     // counter = counter + 1
