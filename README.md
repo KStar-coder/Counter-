@@ -1,6 +1,7 @@
 # Counter APP
 
 ## A simple React based Counter App to increment and decrement a counter using useState Hook
+## It is a beginner's project.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
